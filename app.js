@@ -21,7 +21,7 @@ function save1(){
 
 
 // method number 2
-
+// you can use this method aswell
 
 // var inc = document.getElementById("num");
 // var save = document.getElementById("save");
